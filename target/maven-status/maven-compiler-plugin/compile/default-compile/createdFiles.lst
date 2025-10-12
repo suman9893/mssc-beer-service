@@ -1,0 +1,4 @@
+guru\springframework\msscbeerservice\web\mappers\BeerMapperImpl.class
+guru\springframework\msscbeerservice\web\mappers\DateMapper.class
+guru\springframework\msscbeerservice\web\mappers\BeerMapper.class
+guru\springframework\msscbeerservice\web\controller\MvcExceptionHandler.class
